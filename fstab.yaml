@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/klizerteam/testpoc/
+    type: markup
+
+folders:
+  /products/: /products/default
